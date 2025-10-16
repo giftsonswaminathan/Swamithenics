@@ -1,0 +1,5 @@
+{
+  "name": "Calisthenics Coach AI",
+  "description": "An adaptive calisthenics training app that uses AI to take a complete newbie and produces an advanced athlete. It generates personalized workout plans based on an initial assessment and adapts them based on user performance and feedback.",
+  "requestFramePermissions": []
+}
